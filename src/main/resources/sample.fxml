@@ -1,0 +1,6 @@
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.GridPane?>
+<GridPane fx:controller="io.galya.files.CompareFoldersApp"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+
+</GridPane>

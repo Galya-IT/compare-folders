@@ -1,0 +1,50 @@
+#root-pane {
+    -fx-background-color: #696d6e;
+}
+
+.label {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+    -fx-wrap-text: true;
+}
+
+#compare-button {
+    -fx-background-color: #000000,
+    linear-gradient(#f433e0, #7e1873),
+    linear-gradient(#e511cf, #701066),
+    linear-gradient(#c90db5, #5f0656);
+    -fx-background-insets: 0, 1, 2, 3;
+    -fx-background-radius: 3, 2, 2, 2;
+    -fx-padding: 12 30 12 30;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+}
+
+#compare-button Text {
+    -fx-effect: dropshadow(one-pass-box, rgba(0, 0, 0, 0.8), 0, 0.0, 0, 1);
+}
+
+#compare-button:pressed {
+    -fx-background-color: #000000,
+    linear-gradient(#426ab7, #263e75),
+    linear-gradient(#395cab, #223768);
+}
+
+.progress-indicator {
+    -fx-progress-color: #ffffff;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #b8d9ea;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #c90db5;
+}
+
+.table-view .column-header {
+    -fx-background-color: #000000,
+    linear-gradient(#7ebcea, #47abea),
+    linear-gradient(#467bdc, #3657a3);
+}

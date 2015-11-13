@@ -1,0 +1,211 @@
+[2] 277d05ac75740f91e6b2faf42f7efa7e.png (111,783 bytes):
+      C:\Users\Galya\Desktop\Manikiur\277d05ac75740f91e6b2faf42f7efa7e.png
+      C:\Users\Galya\Desktop\темп\277d05ac75740f91e6b2faf42f7efa7e.png
+[1] 0292.png (2,841 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0292.png
+[1] 110.JPG (1,916,539 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\110.JPG
+[1] 0016.png (55,289 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0016.png
+[1] 020.JPG (1,916,212 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\020.JPG
+[1] 036.JPG (1,858,230 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\036.JPG
+[1] 032.JPG (1,745,970 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\032.JPG
+[1] 0011.png (74,423 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0011.png
+[1] 0006.png (57,670 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0006.png
+[1] 012.JPG (1,804,873 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\012.JPG
+[1] 0299.png (67,439 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0299.png
+[1] temp.txt (2,188 bytes):
+      C:\Users\Galya\Desktop\темп\temp.txt
+[1] 0014.png (77,944 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0014.png
+[1] 0290.png (30,050 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0290.png
+[1] captions.sbv (274,231 bytes):
+      C:\Users\Galya\Desktop\темп\captions.sbv
+[1] FIPatDataFetcherTest.testGetPatentDataPages_INTEGRATION-run-output (37,331 bytes):
+      C:\Users\Galya\Desktop\темп\FIPatDataFetcherTest.testGetPatentDataPages_INTEGRATION-run-output
+[1] 111.JPG (1,595,236 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\111.JPG
+[1] 005.JPG (1,847,500 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\005.JPG
+[1] 0003.png (114,611 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0003.png
+[1] temp1.txt (7,064 bytes):
+      C:\Users\Galya\Desktop\темп\temp1.txt
+[1] 0017.png (2,499 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0017.png
+[1] Thumbs.db (62,976 bytes):
+      C:\Users\Galya\Desktop\Manikiur\Thumbs.db
+[1] 0289.png (70,551 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0289.png
+[1] 0012.png (93,500 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0012.png
+[1] SAM_0722.pdf (6,037,496 bytes):
+      C:\Users\Galya\Desktop\темп\SAM_0722.pdf
+[1] 0004.png (20,913 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0004.png
+[1] 076.JPG (1,496,262 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\076.JPG
+[1] 011.JPG (1,730,533 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\011.JPG
+[1] 0310.png (81,611 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0310.png
+[1] 0293.png (32,484 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0293.png
+[1] 0304.png (35,654 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0304.png
+[1] 104.JPG (1,613,730 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\104.JPG
+[1] 116.JPG (1,861,775 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\116.JPG
+[1] 006.JPG (1,871,163 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\006.JPG
+[1] test.txt (18,960 bytes):
+      C:\Users\Galya\Desktop\темп\test.txt
+[1] 1241.JPG (1,727,744 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\1241.JPG
+[1] SAM_0610.JPG (5,804,429 bytes):
+      C:\Users\Galya\Desktop\темп\SAM_0610.JPG
+[1] 107.JPG (1,518,784 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\107.JPG
+[1] emails info.txt (1,704 bytes):
+      C:\Users\Galya\Desktop\темп\emails info.txt
+[1] picture-232.jpg (1,431,704 bytes):
+      C:\Users\Galya\Desktop\Manikiur\picture-232.jpg
+[1] 124.JPG (1,750,982 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\124.JPG
+[1] 0010.png (68,134 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0010.png
+[1] 1071.JPG (1,733,782 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\1071.JPG
+[1] 071.JPG (1,680,336 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\071.JPG
+[1] molba.JPG (5,437,508 bytes):
+      C:\Users\Galya\Desktop\темп\molba.JPG
+[1] Patricia5.5.1(126)-DMS_strange_views_1.eml (581,010 bytes):
+      C:\Users\Galya\Desktop\темп\15_07_15 21_53_39\Patricia5.5.1(126)-DMS_strange_views_1.eml
+[1] SAM_0598.JPG (5,806,886 bytes):
+      C:\Users\Galya\Desktop\темп\SAM_0598.JPG
+[1] baza_danni.sql (10,938 bytes):
+      C:\Users\Galya\Desktop\темп\baza_danni.sql
+[1] known_hosts.txt (1,045 bytes):
+      C:\Users\Galya\Desktop\темп\known_hosts.txt
+[1] SAM_0607.JPG (5,809,497 bytes):
+      C:\Users\Galya\Desktop\темп\SAM_0607.JPG
+[1] 3120.jpeg (33,100 bytes):
+      C:\Users\Galya\Desktop\Manikiur\3120.jpeg
+[1] 0019.png (106,661 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0019.png
+[1] 0306.png (2,499 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0306.png
+[1] 002.JPG (1,735,723 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\002.JPG
+[1] 099.JPG (1,902,506 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\099.JPG
+[1] 0013.png (76,204 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0013.png
+[1] 0307.png (75,118 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0307.png
+[1] Maria_Georgieva_noktoplastika_G_01.jpg (479,867 bytes):
+      C:\Users\Galya\Desktop\Manikiur\Maria_Georgieva_noktoplastika_G_01.jpg
+[1] Stud_molba_Galya_Bogdanova_13-14_june_2015.pdf (21,499,457 bytes):
+      C:\Users\Galya\Desktop\темп\Stud_molba_Galya_Bogdanova_13-14_june_2015.pdf
+[1] molba-platen-otpusk-30.07.2015-Galya-Bogdanova.pdf (20,188,422 bytes):
+      C:\Users\Galya\Desktop\темп\molba-platen-otpusk-30.07.2015-Galya-Bogdanova.pdf
+[1] 103.JPG (1,869,378 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\103.JPG
+[1] SAM_0722.JPG (2,199,978 bytes):
+      C:\Users\Galya\Desktop\темп\SAM_0722.JPG
+[1] 0302.png (107,490 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0302.png
+[1] 112.JPG (1,565,606 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\112.JPG
+[1] 0121.JPG (1,722,820 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\0121.JPG
+[1] new.txt (3,467 bytes):
+      C:\Users\Galya\Desktop\темп\test\new.txt
+[1] 254200_10150629290990061_643825060_19074527_2758608_n.jpg (63,266 bytes):
+      C:\Users\Galya\Desktop\Manikiur\254200_10150629290990061_643825060_19074527_2758608_n.jpg
+[1] 073.JPG (1,773,376 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\073.JPG
+[1] 0005.png (49,408 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0005.png
+[1] 0301.png (112,995 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0301.png
+[1] todo.txt (2,104 bytes):
+      C:\Users\Galya\Desktop\темп\todo.txt
+[1] 0008.png (20,913 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0008.png
+[1] homepage_e28a7ef92e7684758fa8bc801823e858f6467701.jpg (18,227 bytes):
+      C:\Users\Galya\Desktop\Manikiur\homepage_e28a7ef92e7684758fa8bc801823e858f6467701.jpg
+[1] 0303.png (116,118 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0303.png
+[1] 0002.png (57,670 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0002.png
+[1] 0300.png (63,052 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0300.png
+[1] 0020.png (108,469 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0020.png
+[1] g_18443.jpg (15,207 bytes):
+      C:\Users\Galya\Desktop\Manikiur\g_18443.jpg
+[1] 122.JPG (1,678,368 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\122.JPG
+[1] 03-1-DSS-Course-Introduction.ppt (5,544,448 bytes):
+      C:\Users\Galya\Desktop\темп\03-1-DSS-Course-Introduction.ppt
+[1] 0305.png (2,499 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0305.png
+[1] SAM_0608.JPG (5,809,749 bytes):
+      C:\Users\Galya\Desktop\темп\SAM_0608.JPG
+[1] 108.JPG (1,447,459 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\108.JPG
+[1] Обява.odt (12,552 bytes):
+      C:\Users\Galya\Desktop\темп\Обява.odt
+[1] molba-platen-otpusk-30.07.2015-Galya-Bogdanova.jpg (6,877,001 bytes):
+      C:\Users\Galya\Desktop\темп\molba-platen-otpusk-30.07.2015-Galya-Bogdanova.jpg
+[1] 004.JPG (1,882,530 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\004.JPG
+[1] 1041.JPG (1,613,730 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\1041.JPG
+[1] 0022.png (11,142 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0022.png
+[1] 0007.png (114,611 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0007.png
+[1] Rozacea-dr Venkona.gif (113,957 bytes):
+      C:\Users\Galya\Desktop\темп\Venkova\Rozacea-dr Venkona.gif
+[1] 0018.png (2,499 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0018.png
+[1] 0021.png (65,562 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0021.png
+[1] темп.txt (2,488 bytes):
+      C:\Users\Galya\Desktop\темп\темп.txt
+[1] 0001.png (49,408 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0001.png
+[1] 0015.png (85,860 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0015.png
+[1] 0009.png (76,720 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0009.png
+[1] Rozacea-dr Venkona1.gif (139,217 bytes):
+      C:\Users\Galya\Desktop\темп\Venkova\Rozacea-dr Venkona1.gif
+[1] SAM_0609.JPG (5,804,107 bytes):
+      C:\Users\Galya\Desktop\темп\SAM_0609.JPG
+[1] 0308.png (76,305 bytes):
+      C:\Users\Galya\Desktop\темп\bZ2MC3x53bYC\0308.png
+[1] nail-art-tutorials-diy-hot-pink-flower-nails-on-black_864521.jpg (11,628 bytes):
+      C:\Users\Galya\Desktop\Manikiur\nail-art-tutorials-diy-hot-pink-flower-nails-on-black_864521.jpg
+[1] Iso3166CountriesFetcher.java (4,081 bytes):
+      C:\Users\Galya\Desktop\темп\Iso3166CountriesFetcher.java
+[1] Iso3166CountriesFetcherTest.java (2,494 bytes):
+      C:\Users\Galya\Desktop\темп\Iso3166CountriesFetcherTest.java
+[1] 044.JPG (1,433,462 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\044.JPG
+[1] orig.txt (3,414 bytes):
+      C:\Users\Galya\Desktop\темп\test\orig.txt
+[1] 094.JPG (1,751,225 bytes):
+      C:\Users\Galya\Desktop\темп\janeta\094.JPG
